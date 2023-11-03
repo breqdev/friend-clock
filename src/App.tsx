@@ -45,6 +45,8 @@ function App() {
       <div className="grid grid-cols-[repeat(auto-fill,minmax(200px,1fr))]">
         <Clock name="Ava" tz="America/New_York" twitter="avapsilver" />
         <Clock name="Vivi" tz="America/New_York" twitter="vivi_is_tired" />
+        <Clock name="Charlotte" tz="America/Los_Angeles" twitter="pupOnSecurity" />
+        <Clock name="Wiggles" tz="America/Los_Angeles" twitter="16kbps" />
         <Clock name="Philo" tz="America/New_York" twitter="flaming_spork" />
         <Clock name="Maxine" tz="America/New_York" twitter="prsmaticwolf" />
         <Clock name="Tris" tz="America/New_York" />
