@@ -50,9 +50,6 @@ function App() {
         <Clock name="Tris" tz="America/New_York" />
         <Clock name="Liz" tz="America/Los_Angeles" twitter="selectric401" />
         <Clock name="Mia" tz="America/New_York" twitter="nkizz11" />
-        <Clock name="Ezgi" tz="America/New_York" twitter="ezgiburglar69" />
-        <Clock name="Kay" tz="America/New_York" twitter="ffoorrggg" />
-        <Clock name="Ula" tz="America/New_York" twitter="oh_jeez_bees" />
       </div>
     </div>
   );
